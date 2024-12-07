@@ -59,12 +59,12 @@ The project uses an **event study** approach with econometric modeling, leveragi
    install.packages(c("data.table", "dplyr", "fixest", "lubridate", "ggplot2"))
 3. Run the scripts in the scripts/ folder for data preprocessing, model estimation, and visualization.
 
-**Insights and Implications**
+## Insights and Implications
 This study offers actionable insights for energy and transport policymakers:
 
 Implementing regional energy price adjustments to maintain sustainable transport practices.
 Enhancing public transport infrastructure in cities is heavily impacted by energy price changes.
 
-**Contact**
+## Contact
 For questions or collaboration:
 Syed Amjad Ali: syed.ali@student.nhh.no
